@@ -10,9 +10,8 @@ conda activate four
 
 ### 🗂️ Dataset Setup
 
-Download the **Heritage-Recon** dataset and place it under the `data/` directory. You can manually download it or use `gdown` via command line:
+Download the [**Heritage-Recon** dataset](https://drive.google.com/drive/folders/1eZvmk4GQkrRKUNZpagZEIY_z8Lsdw94v)  
+and place it under the `data/` directory.
+ 
 
-```bash
-mkdir data && cd data
-gdown --id 1eZvmk4GQkrRKUNZpagZEIY_z8Lsdw94v
 
